@@ -37,8 +37,8 @@ This project connects **Azure AI Agent Service** with **Neon Serverless Postgres
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/neondatabase-labs/neon-mcp-azure-ai-agent.git
-   cd neon-mcp-azure-ai-agent
+   git clone https://github.com/neondatabase-labs/mcp-neon-azure-ai-agent.git
+   cd mcp-neon-azure-ai-agent
    ```
 2. Create a new virtual environment:
    ```bash
