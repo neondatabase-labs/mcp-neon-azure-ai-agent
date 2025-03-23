@@ -1,0 +1,7 @@
+mcp[cli]>=1.4.1
+azure-identity>=1.21.0
+python-dotenv>=1.0.1
+azure-ai-projects>=1.0.0b7
+aiohttp>=3.11.14
+neon-api==0.3.0
+jsonref
